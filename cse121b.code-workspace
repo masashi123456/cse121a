@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/w01-task"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "w01-task"
+	}
+}
